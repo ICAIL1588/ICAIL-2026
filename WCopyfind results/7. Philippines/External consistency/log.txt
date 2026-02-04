@@ -1,0 +1,17 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\7. Philippines\519_Japan Philippines_2006Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\7. Philippines\PH-EFTA (2016).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\7. Philippines\PH-Korea (2023).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 4037	4037	4037	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\7. Philippines\519_Japan Philippines_2006Cut.txt
+Comparing Documents, 2 Completed
+Match: 1382	1382	1382	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\7. Philippines\PH-EFTA (2016).txt
+Comparing Documents, 3 Completed
+Match: 2777	2777	2777	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\7. Philippines\PH-Korea (2023).txt
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 0.173 seconds
