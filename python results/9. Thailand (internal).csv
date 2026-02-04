@@ -1,0 +1,22 @@
+FTA 1,FTA 2,Matched words,Total words FTA 1,Total words FTA 2,% of FTA 1,% of FTA 2
+632_New Zealand Thailand_2005Cut.txt,771_Peru Thailand_2005Cut.txt,196,23298,1223,0.84,16.03
+632_New Zealand Thailand_2005Cut.txt,83_Australia Thailand_2004.txt,14200,23298,25733,60.95,55.18
+632_New Zealand Thailand_2005Cut.txt,TH-Chile (2013).txt,5881,23298,28388,25.24,20.72
+632_New Zealand Thailand_2005Cut.txt,TH-EFTA (2025).txt,2548,23298,23238,10.94,10.96
+632_New Zealand Thailand_2005Cut.txt,TH-India (2003).txt,213,23298,2202,0.91,9.67
+632_New Zealand Thailand_2005Cut.txt,TH-Japan (2007).txt,3781,23298,29848,16.23,12.67
+771_Peru Thailand_2005Cut.txt,83_Australia Thailand_2004.txt,162,1223,25733,13.25,0.63
+771_Peru Thailand_2005Cut.txt,TH-Chile (2013).txt,104,1223,28388,8.50,0.37
+771_Peru Thailand_2005Cut.txt,TH-EFTA (2025).txt,92,1223,23238,7.52,0.40
+771_Peru Thailand_2005Cut.txt,TH-India (2003).txt,104,1223,2202,8.50,4.72
+771_Peru Thailand_2005Cut.txt,TH-Japan (2007).txt,72,1223,29848,5.89,0.24
+83_Australia Thailand_2004.txt,TH-Chile (2013).txt,6253,25733,28388,24.30,22.03
+83_Australia Thailand_2004.txt,TH-EFTA (2025).txt,2825,25733,23238,10.98,12.16
+83_Australia Thailand_2004.txt,TH-India (2003).txt,178,25733,2202,0.69,8.08
+83_Australia Thailand_2004.txt,TH-Japan (2007).txt,4531,25733,29848,17.61,15.18
+TH-Chile (2013).txt,TH-EFTA (2025).txt,3477,28388,23238,12.25,14.96
+TH-Chile (2013).txt,TH-India (2003).txt,132,28388,2202,0.46,5.99
+TH-Chile (2013).txt,TH-Japan (2007).txt,6164,28388,29848,21.71,20.65
+TH-EFTA (2025).txt,TH-India (2003).txt,132,23238,2202,0.57,5.99
+TH-EFTA (2025).txt,TH-Japan (2007).txt,3713,23238,29848,15.98,12.44
+TH-India (2003).txt,TH-Japan (2007).txt,113,2202,29848,5.13,0.38

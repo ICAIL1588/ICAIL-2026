@@ -1,0 +1,191 @@
+FTA 1,FTA 2,Matched words,Total words FTA 1,Total words FTA 2,% of FTA 1,% of FTA 2
+396_EFTA Singapore_2002Cut.txt,475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,3280,12111,22294,27.08,14.71
+396_EFTA Singapore_2002Cut.txt,493_India Singapore_2005Cut.txt,3906,12111,37189,32.25,10.50
+396_EFTA Singapore_2002Cut.txt,520_Japan Singapore_2002Cut.txt,3550,12111,27844,29.31,12.75
+396_EFTA Singapore_2002Cut.txt,534_Jordan Singapore_2004Cut.txt,1793,12111,11769,14.80,15.23
+396_EFTA Singapore_2002Cut.txt,550_Korea Singapore_2005Cut.txt,3199,12111,39019,26.41,8.20
+396_EFTA Singapore_2002Cut.txt,631_New Zealand Singapore_2000Cut.txt,2686,12111,16293,22.18,16.49
+396_EFTA Singapore_2002Cut.txt,641_Panama Singapore_2006Cut.txt,2699,12111,36910,22.29,7.31
+396_EFTA Singapore_2002Cut.txt,644_Peru Singapore_2008Cut.txt,2103,12111,37711,17.36,5.58
+396_EFTA Singapore_2002Cut.txt,658_Singapore US_2003Cut.txt,1907,12111,59468,15.75,3.21
+396_EFTA Singapore_2002Cut.txt,814_Costa Rica Singapore_2010 cut.txt,2643,12111,38081,21.82,6.94
+396_EFTA Singapore_2002Cut.txt,82_Australia Singapore_2003Cut.txt,3283,12111,30823,27.11,10.65
+396_EFTA Singapore_2002Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,3138,12111,88985,25.91,3.53
+396_EFTA Singapore_2002Cut.txt,SG-Armenia (2019).txt,2091,12111,18209,17.27,11.48
+396_EFTA Singapore_2002Cut.txt,SG-China (2023).txt,2730,12111,40867,22.54,6.68
+396_EFTA Singapore_2002Cut.txt,SG-Costa Rica (2010).txt,2618,12111,36019,21.62,7.27
+396_EFTA Singapore_2002Cut.txt,SG-Kazakh (2023).txt,2563,12111,17605,21.16,14.56
+396_EFTA Singapore_2002Cut.txt,SG-Mercosur (2023).txt,3163,12111,63808,26.12,4.96
+396_EFTA Singapore_2002Cut.txt,SG-Pacific Alliance (2022).txt,2128,12111,75701,17.57,2.81
+396_EFTA Singapore_2002Cut.txt,SG-TW (2013).txt,2277,12111,27717,18.80,8.22
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,493_India Singapore_2005Cut.txt,7669,22294,37189,34.40,20.62
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,520_Japan Singapore_2002Cut.txt,6082,22294,27844,27.28,21.84
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,534_Jordan Singapore_2004Cut.txt,3246,22294,11769,14.56,27.58
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,550_Korea Singapore_2005Cut.txt,6360,22294,39019,28.53,16.30
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,631_New Zealand Singapore_2000Cut.txt,3107,22294,16293,13.94,19.07
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,641_Panama Singapore_2006Cut.txt,8951,22294,36910,40.15,24.25
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,644_Peru Singapore_2008Cut.txt,5992,22294,37711,26.88,15.89
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,658_Singapore US_2003Cut.txt,5053,22294,59468,22.67,8.50
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,814_Costa Rica Singapore_2010 cut.txt,7097,22294,38081,31.83,18.64
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,82_Australia Singapore_2003Cut.txt,6181,22294,30823,27.72,20.05
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,5831,22294,88985,26.16,6.55
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,SG-Armenia (2019).txt,2267,22294,18209,10.17,12.45
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,SG-China (2023).txt,5182,22294,40867,23.24,12.68
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,SG-Costa Rica (2010).txt,6694,22294,36019,30.03,18.58
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,SG-Kazakh (2023).txt,2844,22294,17605,12.76,16.15
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,SG-Mercosur (2023).txt,5751,22294,63808,25.80,9.01
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,SG-Pacific Alliance (2022).txt,5163,22294,75701,23.16,6.82
+475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt,SG-TW (2013).txt,4837,22294,27717,21.70,17.45
+493_India Singapore_2005Cut.txt,520_Japan Singapore_2002Cut.txt,9406,37189,27844,25.29,33.78
+493_India Singapore_2005Cut.txt,534_Jordan Singapore_2004Cut.txt,4262,37189,11769,11.46,36.21
+493_India Singapore_2005Cut.txt,550_Korea Singapore_2005Cut.txt,11960,37189,39019,32.16,30.65
+493_India Singapore_2005Cut.txt,631_New Zealand Singapore_2000Cut.txt,6023,37189,16293,16.20,36.97
+493_India Singapore_2005Cut.txt,641_Panama Singapore_2006Cut.txt,9765,37189,36910,26.26,26.46
+493_India Singapore_2005Cut.txt,644_Peru Singapore_2008Cut.txt,6241,37189,37711,16.78,16.55
+493_India Singapore_2005Cut.txt,658_Singapore US_2003Cut.txt,7211,37189,59468,19.39,12.13
+493_India Singapore_2005Cut.txt,814_Costa Rica Singapore_2010 cut.txt,6766,37189,38081,18.19,17.77
+493_India Singapore_2005Cut.txt,82_Australia Singapore_2003Cut.txt,12235,37189,30823,32.90,39.69
+493_India Singapore_2005Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,7252,37189,88985,19.50,8.15
+493_India Singapore_2005Cut.txt,SG-Armenia (2019).txt,4311,37189,18209,11.59,23.68
+493_India Singapore_2005Cut.txt,SG-China (2023).txt,9935,37189,40867,26.71,24.31
+493_India Singapore_2005Cut.txt,SG-Costa Rica (2010).txt,6187,37189,36019,16.64,17.18
+493_India Singapore_2005Cut.txt,SG-Kazakh (2023).txt,4481,37189,17605,12.05,25.45
+493_India Singapore_2005Cut.txt,SG-Mercosur (2023).txt,5165,37189,63808,13.89,8.09
+493_India Singapore_2005Cut.txt,SG-Pacific Alliance (2022).txt,5723,37189,75701,15.39,7.56
+493_India Singapore_2005Cut.txt,SG-TW (2013).txt,6248,37189,27717,16.80,22.54
+520_Japan Singapore_2002Cut.txt,534_Jordan Singapore_2004Cut.txt,3183,27844,11769,11.43,27.05
+520_Japan Singapore_2002Cut.txt,550_Korea Singapore_2005Cut.txt,7982,27844,39019,28.67,20.46
+520_Japan Singapore_2002Cut.txt,631_New Zealand Singapore_2000Cut.txt,3386,27844,16293,12.16,20.78
+520_Japan Singapore_2002Cut.txt,641_Panama Singapore_2006Cut.txt,5694,27844,36910,20.45,15.43
+520_Japan Singapore_2002Cut.txt,644_Peru Singapore_2008Cut.txt,3856,27844,37711,13.85,10.23
+520_Japan Singapore_2002Cut.txt,658_Singapore US_2003Cut.txt,4191,27844,59468,15.05,7.05
+520_Japan Singapore_2002Cut.txt,814_Costa Rica Singapore_2010 cut.txt,4541,27844,38081,16.31,11.92
+520_Japan Singapore_2002Cut.txt,82_Australia Singapore_2003Cut.txt,6309,27844,30823,22.66,20.47
+520_Japan Singapore_2002Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,5856,27844,88985,21.03,6.58
+520_Japan Singapore_2002Cut.txt,SG-Armenia (2019).txt,3596,27844,18209,12.91,19.75
+520_Japan Singapore_2002Cut.txt,SG-China (2023).txt,6202,27844,40867,22.27,15.18
+520_Japan Singapore_2002Cut.txt,SG-Costa Rica (2010).txt,4143,27844,36019,14.88,11.50
+520_Japan Singapore_2002Cut.txt,SG-Kazakh (2023).txt,3473,27844,17605,12.47,19.73
+520_Japan Singapore_2002Cut.txt,SG-Mercosur (2023).txt,3998,27844,63808,14.36,6.27
+520_Japan Singapore_2002Cut.txt,SG-Pacific Alliance (2022).txt,4068,27844,75701,14.61,5.37
+520_Japan Singapore_2002Cut.txt,SG-TW (2013).txt,3995,27844,27717,14.35,14.41
+534_Jordan Singapore_2004Cut.txt,550_Korea Singapore_2005Cut.txt,4047,11769,39019,34.39,10.37
+534_Jordan Singapore_2004Cut.txt,631_New Zealand Singapore_2000Cut.txt,1729,11769,16293,14.69,10.61
+534_Jordan Singapore_2004Cut.txt,641_Panama Singapore_2006Cut.txt,3542,11769,36910,30.10,9.60
+534_Jordan Singapore_2004Cut.txt,644_Peru Singapore_2008Cut.txt,3058,11769,37711,25.98,8.11
+534_Jordan Singapore_2004Cut.txt,658_Singapore US_2003Cut.txt,3712,11769,59468,31.54,6.24
+534_Jordan Singapore_2004Cut.txt,814_Costa Rica Singapore_2010 cut.txt,2951,11769,38081,25.07,7.75
+534_Jordan Singapore_2004Cut.txt,82_Australia Singapore_2003Cut.txt,3015,11769,30823,25.62,9.78
+534_Jordan Singapore_2004Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,2084,11769,88985,17.71,2.34
+534_Jordan Singapore_2004Cut.txt,SG-Armenia (2019).txt,1039,11769,18209,8.83,5.71
+534_Jordan Singapore_2004Cut.txt,SG-China (2023).txt,2793,11769,40867,23.73,6.83
+534_Jordan Singapore_2004Cut.txt,SG-Costa Rica (2010).txt,2936,11769,36019,24.95,8.15
+534_Jordan Singapore_2004Cut.txt,SG-Kazakh (2023).txt,1404,11769,17605,11.93,7.98
+534_Jordan Singapore_2004Cut.txt,SG-Mercosur (2023).txt,2254,11769,63808,19.15,3.53
+534_Jordan Singapore_2004Cut.txt,SG-Pacific Alliance (2022).txt,2160,11769,75701,18.35,2.85
+534_Jordan Singapore_2004Cut.txt,SG-TW (2013).txt,2866,11769,27717,24.35,10.34
+550_Korea Singapore_2005Cut.txt,631_New Zealand Singapore_2000Cut.txt,3842,39019,16293,9.85,23.58
+550_Korea Singapore_2005Cut.txt,641_Panama Singapore_2006Cut.txt,14391,39019,36910,36.88,38.99
+550_Korea Singapore_2005Cut.txt,644_Peru Singapore_2008Cut.txt,10531,39019,37711,26.99,27.93
+550_Korea Singapore_2005Cut.txt,658_Singapore US_2003Cut.txt,13781,39019,59468,35.32,23.17
+550_Korea Singapore_2005Cut.txt,814_Costa Rica Singapore_2010 cut.txt,11624,39019,38081,29.79,30.52
+550_Korea Singapore_2005Cut.txt,82_Australia Singapore_2003Cut.txt,8827,39019,30823,22.62,28.64
+550_Korea Singapore_2005Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,7437,39019,88985,19.06,8.36
+550_Korea Singapore_2005Cut.txt,SG-Armenia (2019).txt,6087,39019,18209,15.60,33.43
+550_Korea Singapore_2005Cut.txt,SG-China (2023).txt,9564,39019,40867,24.51,23.40
+550_Korea Singapore_2005Cut.txt,SG-Costa Rica (2010).txt,10987,39019,36019,28.16,30.50
+550_Korea Singapore_2005Cut.txt,SG-Kazakh (2023).txt,5299,39019,17605,13.58,30.10
+550_Korea Singapore_2005Cut.txt,SG-Mercosur (2023).txt,6344,39019,63808,16.26,9.94
+550_Korea Singapore_2005Cut.txt,SG-Pacific Alliance (2022).txt,9954,39019,75701,25.51,13.15
+550_Korea Singapore_2005Cut.txt,SG-TW (2013).txt,13595,39019,27717,34.84,49.05
+631_New Zealand Singapore_2000Cut.txt,641_Panama Singapore_2006Cut.txt,3271,16293,36910,20.08,8.86
+631_New Zealand Singapore_2000Cut.txt,644_Peru Singapore_2008Cut.txt,2274,16293,37711,13.96,6.03
+631_New Zealand Singapore_2000Cut.txt,658_Singapore US_2003Cut.txt,1968,16293,59468,12.08,3.31
+631_New Zealand Singapore_2000Cut.txt,814_Costa Rica Singapore_2010 cut.txt,2412,16293,38081,14.80,6.33
+631_New Zealand Singapore_2000Cut.txt,82_Australia Singapore_2003Cut.txt,5097,16293,30823,31.28,16.54
+631_New Zealand Singapore_2000Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,2733,16293,88985,16.77,3.07
+631_New Zealand Singapore_2000Cut.txt,SG-Armenia (2019).txt,1716,16293,18209,10.53,9.42
+631_New Zealand Singapore_2000Cut.txt,SG-China (2023).txt,3152,16293,40867,19.35,7.71
+631_New Zealand Singapore_2000Cut.txt,SG-Costa Rica (2010).txt,2395,16293,36019,14.70,6.65
+631_New Zealand Singapore_2000Cut.txt,SG-Kazakh (2023).txt,2252,16293,17605,13.82,12.79
+631_New Zealand Singapore_2000Cut.txt,SG-Mercosur (2023).txt,2387,16293,63808,14.65,3.74
+631_New Zealand Singapore_2000Cut.txt,SG-Pacific Alliance (2022).txt,2009,16293,75701,12.33,2.65
+631_New Zealand Singapore_2000Cut.txt,SG-TW (2013).txt,2340,16293,27717,14.36,8.44
+641_Panama Singapore_2006Cut.txt,644_Peru Singapore_2008Cut.txt,15739,36910,37711,42.64,41.74
+641_Panama Singapore_2006Cut.txt,658_Singapore US_2003Cut.txt,16922,36910,59468,45.85,28.46
+641_Panama Singapore_2006Cut.txt,814_Costa Rica Singapore_2010 cut.txt,17703,36910,38081,47.96,46.49
+641_Panama Singapore_2006Cut.txt,82_Australia Singapore_2003Cut.txt,8657,36910,30823,23.45,28.09
+641_Panama Singapore_2006Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,8366,36910,88985,22.67,9.40
+641_Panama Singapore_2006Cut.txt,SG-Armenia (2019).txt,7201,36910,18209,19.51,39.55
+641_Panama Singapore_2006Cut.txt,SG-China (2023).txt,9941,36910,40867,26.93,24.33
+641_Panama Singapore_2006Cut.txt,SG-Costa Rica (2010).txt,16965,36910,36019,45.96,47.10
+641_Panama Singapore_2006Cut.txt,SG-Kazakh (2023).txt,4962,36910,17605,13.44,28.19
+641_Panama Singapore_2006Cut.txt,SG-Mercosur (2023).txt,6529,36910,63808,17.69,10.23
+641_Panama Singapore_2006Cut.txt,SG-Pacific Alliance (2022).txt,11615,36910,75701,31.47,15.34
+641_Panama Singapore_2006Cut.txt,SG-TW (2013).txt,12792,36910,27717,34.66,46.15
+644_Peru Singapore_2008Cut.txt,658_Singapore US_2003Cut.txt,11351,37711,59468,30.10,19.09
+644_Peru Singapore_2008Cut.txt,814_Costa Rica Singapore_2010 cut.txt,21694,37711,38081,57.53,56.97
+644_Peru Singapore_2008Cut.txt,82_Australia Singapore_2003Cut.txt,6154,37711,30823,16.32,19.97
+644_Peru Singapore_2008Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,6674,37711,88985,17.70,7.50
+644_Peru Singapore_2008Cut.txt,SG-Armenia (2019).txt,6712,37711,18209,17.80,36.86
+644_Peru Singapore_2008Cut.txt,SG-China (2023).txt,7720,37711,40867,20.47,18.89
+644_Peru Singapore_2008Cut.txt,SG-Costa Rica (2010).txt,21512,37711,36019,57.04,59.72
+644_Peru Singapore_2008Cut.txt,SG-Kazakh (2023).txt,5132,37711,17605,13.61,29.15
+644_Peru Singapore_2008Cut.txt,SG-Mercosur (2023).txt,7385,37711,63808,19.58,11.57
+644_Peru Singapore_2008Cut.txt,SG-Pacific Alliance (2022).txt,11754,37711,75701,31.17,15.53
+644_Peru Singapore_2008Cut.txt,SG-TW (2013).txt,13413,37711,27717,35.57,48.39
+658_Singapore US_2003Cut.txt,814_Costa Rica Singapore_2010 cut.txt,11842,59468,38081,19.91,31.10
+658_Singapore US_2003Cut.txt,82_Australia Singapore_2003Cut.txt,4926,59468,30823,8.28,15.98
+658_Singapore US_2003Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,9724,59468,88985,16.35,10.93
+658_Singapore US_2003Cut.txt,SG-Armenia (2019).txt,7433,59468,18209,12.50,40.82
+658_Singapore US_2003Cut.txt,SG-China (2023).txt,11474,59468,40867,19.29,28.08
+658_Singapore US_2003Cut.txt,SG-Costa Rica (2010).txt,11235,59468,36019,18.89,31.19
+658_Singapore US_2003Cut.txt,SG-Kazakh (2023).txt,5377,59468,17605,9.04,30.54
+658_Singapore US_2003Cut.txt,SG-Mercosur (2023).txt,5694,59468,63808,9.57,8.92
+658_Singapore US_2003Cut.txt,SG-Pacific Alliance (2022).txt,16115,59468,75701,27.10,21.29
+658_Singapore US_2003Cut.txt,SG-TW (2013).txt,10269,59468,27717,17.27,37.05
+814_Costa Rica Singapore_2010 cut.txt,82_Australia Singapore_2003Cut.txt,6541,38081,30823,17.18,21.22
+814_Costa Rica Singapore_2010 cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,8497,38081,88985,22.31,9.55
+814_Costa Rica Singapore_2010 cut.txt,SG-Armenia (2019).txt,7866,38081,18209,20.66,43.20
+814_Costa Rica Singapore_2010 cut.txt,SG-China (2023).txt,8621,38081,40867,22.64,21.10
+814_Costa Rica Singapore_2010 cut.txt,SG-Costa Rica (2010).txt,35774,38081,36019,93.94,99.32
+814_Costa Rica Singapore_2010 cut.txt,SG-Kazakh (2023).txt,5517,38081,17605,14.49,31.34
+814_Costa Rica Singapore_2010 cut.txt,SG-Mercosur (2023).txt,7831,38081,63808,20.56,12.27
+814_Costa Rica Singapore_2010 cut.txt,SG-Pacific Alliance (2022).txt,12314,38081,75701,32.34,16.27
+814_Costa Rica Singapore_2010 cut.txt,SG-TW (2013).txt,14321,38081,27717,37.61,51.67
+82_Australia Singapore_2003Cut.txt,874_EC Singapore_ (cut) + Investment (2018).txt,7119,30823,88985,23.10,8.00
+82_Australia Singapore_2003Cut.txt,SG-Armenia (2019).txt,4319,30823,18209,14.01,23.72
+82_Australia Singapore_2003Cut.txt,SG-China (2023).txt,8737,30823,40867,28.35,21.38
+82_Australia Singapore_2003Cut.txt,SG-Costa Rica (2010).txt,5925,30823,36019,19.22,16.45
+82_Australia Singapore_2003Cut.txt,SG-Kazakh (2023).txt,3989,30823,17605,12.94,22.66
+82_Australia Singapore_2003Cut.txt,SG-Mercosur (2023).txt,4343,30823,63808,14.09,6.81
+82_Australia Singapore_2003Cut.txt,SG-Pacific Alliance (2022).txt,5222,30823,75701,16.94,6.90
+82_Australia Singapore_2003Cut.txt,SG-TW (2013).txt,5594,30823,27717,18.15,20.18
+874_EC Singapore_ (cut) + Investment (2018).txt,SG-Armenia (2019).txt,7374,88985,18209,8.29,40.50
+874_EC Singapore_ (cut) + Investment (2018).txt,SG-China (2023).txt,7775,88985,40867,8.74,19.03
+874_EC Singapore_ (cut) + Investment (2018).txt,SG-Costa Rica (2010).txt,7813,88985,36019,8.78,21.69
+874_EC Singapore_ (cut) + Investment (2018).txt,SG-Kazakh (2023).txt,7073,88985,17605,7.95,40.18
+874_EC Singapore_ (cut) + Investment (2018).txt,SG-Mercosur (2023).txt,16924,88985,63808,19.02,26.52
+874_EC Singapore_ (cut) + Investment (2018).txt,SG-Pacific Alliance (2022).txt,12966,88985,75701,14.57,17.13
+874_EC Singapore_ (cut) + Investment (2018).txt,SG-TW (2013).txt,6091,88985,27717,6.84,21.98
+SG-Armenia (2019).txt,SG-China (2023).txt,7480,18209,40867,41.08,18.30
+SG-Armenia (2019).txt,SG-Costa Rica (2010).txt,7818,18209,36019,42.93,21.71
+SG-Armenia (2019).txt,SG-Kazakh (2023).txt,13065,18209,17605,71.75,74.21
+SG-Armenia (2019).txt,SG-Mercosur (2023).txt,6750,18209,63808,37.07,10.58
+SG-Armenia (2019).txt,SG-Pacific Alliance (2022).txt,7606,18209,75701,41.77,10.05
+SG-Armenia (2019).txt,SG-TW (2013).txt,8190,18209,27717,44.98,29.55
+SG-China (2023).txt,SG-Costa Rica (2010).txt,7940,40867,36019,19.43,22.04
+SG-China (2023).txt,SG-Kazakh (2023).txt,5822,40867,17605,14.25,33.07
+SG-China (2023).txt,SG-Mercosur (2023).txt,6574,40867,63808,16.09,10.30
+SG-China (2023).txt,SG-Pacific Alliance (2022).txt,14708,40867,75701,35.99,19.43
+SG-China (2023).txt,SG-TW (2013).txt,8144,40867,27717,19.93,29.38
+SG-Costa Rica (2010).txt,SG-Kazakh (2023).txt,5526,36019,17605,15.34,31.39
+SG-Costa Rica (2010).txt,SG-Mercosur (2023).txt,7790,36019,63808,21.63,12.21
+SG-Costa Rica (2010).txt,SG-Pacific Alliance (2022).txt,11624,36019,75701,32.27,15.36
+SG-Costa Rica (2010).txt,SG-TW (2013).txt,14300,36019,27717,39.70,51.59
+SG-Kazakh (2023).txt,SG-Mercosur (2023).txt,7016,17605,63808,39.85,11.00
+SG-Kazakh (2023).txt,SG-Pacific Alliance (2022).txt,5996,17605,75701,34.06,7.92
+SG-Kazakh (2023).txt,SG-TW (2013).txt,5583,17605,27717,31.71,20.14
+SG-Mercosur (2023).txt,SG-Pacific Alliance (2022).txt,17341,63808,75701,27.18,22.91
+SG-Mercosur (2023).txt,SG-TW (2013).txt,5705,63808,27717,8.94,20.58
+SG-Pacific Alliance (2022).txt,SG-TW (2013).txt,9161,75701,27717,12.10,33.05
