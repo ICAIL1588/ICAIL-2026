@@ -1,0 +1,68 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\396_EFTA Singapore_2002Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\493_India Singapore_2005Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\520_Japan Singapore_2002Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\534_Jordan Singapore_2004Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\550_Korea Singapore_2005Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\631_New Zealand Singapore_2000Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\641_Panama Singapore_2006Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\644_Peru Singapore_2008Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\658_Singapore US_2003Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\814_Costa Rica Singapore_2010 cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\82_Australia Singapore_2003Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\874_EC Singapore_ (cut) + Investment (2018).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Armenia (2019).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-China (2023).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Costa Rica (2010).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Kazakh (2023).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Mercosur (2023).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Pacific Alliance (2022).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-TW (2013).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 2842	2842	2842	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\396_EFTA Singapore_2002Cut.txt
+Comparing Documents, 2 Completed
+Match: 3849	3849	3849	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\475_Gulf Cooperation Council (GCC) Singapore_2008Cut.txt
+Comparing Documents, 3 Completed
+Match: 5518	5518	5518	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\493_India Singapore_2005Cut.txt
+Comparing Documents, 4 Completed
+Match: 4674	4674	4674	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\520_Japan Singapore_2002Cut.txt
+Comparing Documents, 5 Completed
+Match: 2059	2059	2059	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\534_Jordan Singapore_2004Cut.txt
+Comparing Documents, 6 Completed
+Match: 4398	4398	4398	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\550_Korea Singapore_2005Cut.txt
+Comparing Documents, 7 Completed
+Match: 2186	2186	2186	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\631_New Zealand Singapore_2000Cut.txt
+Comparing Documents, 8 Completed
+Match: 4237	4237	4237	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\641_Panama Singapore_2006Cut.txt
+Comparing Documents, 9 Completed
+Match: 4552	4552	4552	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\644_Peru Singapore_2008Cut.txt
+Comparing Documents, 10 Completed
+Match: 4147	4147	4147	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\658_Singapore US_2003Cut.txt
+Comparing Documents, 11 Completed
+Match: 4522	4522	4522	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\814_Costa Rica Singapore_2010 cut.txt
+Comparing Documents, 12 Completed
+Match: 5022	5022	5022	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\82_Australia Singapore_2003Cut.txt
+Comparing Documents, 13 Completed
+Match: 4508	4508	4508	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\874_EC Singapore_ (cut) + Investment (2018).txt
+Comparing Documents, 14 Completed
+Match: 3722	3722	3722	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Armenia (2019).txt
+Comparing Documents, 15 Completed
+Match: 6521	6521	6521	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-China (2023).txt
+Comparing Documents, 16 Completed
+Match: 4507	4507	4507	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Costa Rica (2010).txt
+Comparing Documents, 17 Completed
+Match: 3648	3648	3648	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Kazakh (2023).txt
+Comparing Documents, 18 Completed
+Match: 4266	4266	4266	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Mercosur (2023).txt
+Comparing Documents, 19 Completed
+Match: 4877	4877	4877	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-Pacific Alliance (2022).txt
+Comparing Documents, 20 Completed
+Match: 4331	4331	4331	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\8. Singapore\SG-TW (2013).txt
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 1.408 seconds
