@@ -1,0 +1,32 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\523_Japan Vietnam_2008Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-Chile (2011).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-EEU (2015).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-EU + Investment (2019).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-Israel (2023).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-ROK (2015).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-UAE (2024).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-US (2000).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 3702	3702	3702	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\523_Japan Vietnam_2008Cut.txt
+Comparing Documents, 2 Completed
+Match: 2789	2789	2789	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-Chile (2011).txt
+Comparing Documents, 3 Completed
+Match: 3539	3539	3539	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-EEU (2015).txt
+Comparing Documents, 4 Completed
+Match: 4017	4017	4017	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-EU + Investment (2019).txt
+Comparing Documents, 5 Completed
+Match: 3720	3720	3720	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-Israel (2023).txt
+Comparing Documents, 6 Completed
+Match: 6235	6235	6235	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-ROK (2015).txt
+Comparing Documents, 7 Completed
+Match: 3782	3782	3782	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-UAE (2024).txt
+Comparing Documents, 8 Completed
+Match: 2566	2566	2566	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\10. Vietnam\VN-US (2000).txt
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 0.561 seconds
